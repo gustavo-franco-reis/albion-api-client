@@ -1,6 +1,6 @@
-"""A setuptools based setup module."""
+"""Um módulo de configuração baseado em setuptools."""
 
-# Always prefer setuptools over distutils
+# Sempre prefira setuptools a distutils
 from setuptools import setup, find_packages
 
 setup(
